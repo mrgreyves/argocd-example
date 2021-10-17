@@ -11,7 +11,7 @@ spec:
  duration: 240h
  #Renew before 7 days of expiry
  renewBefore: 24h
- commonName: ololo.trololo.com
+ commonName: test.192.168.64.5.nip.io
  revisionHistoryLimit: 2
  dnsNames:
- - ololo.trololo.com
+ - test.192.168.64.5.nip.io
